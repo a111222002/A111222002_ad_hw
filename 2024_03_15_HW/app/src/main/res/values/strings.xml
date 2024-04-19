@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2024_03_15_HW</string>
+    <string name="ACCOUNT">ACCOUNT</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="the_final">結果</string>
+    <string name="ACCOUNT_INPUT">輸入帳號</string>
+    <string name="PASSWORD_INPUT">輸入密碼</string>
+</resources>
