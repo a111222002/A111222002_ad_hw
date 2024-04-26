@@ -9,4 +9,5 @@
     <string name="labticket">票種</string>
     <string name="labSheetsPurchased">購買張數</string>
     <string name="submit">確定</string>
+    <string name="back">返回</string>
 </resources>
